@@ -33,7 +33,6 @@ setup(
     'torchvision',
     'transformers',
     'tqdm',
-    'youtokentome',
     'WebDataset'
   ],
   classifiers=[
